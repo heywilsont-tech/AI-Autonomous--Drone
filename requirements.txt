@@ -1,0 +1,6 @@
+mavsdk
+opencv-python
+torch
+ultralytics
+numpy
+rclpy
